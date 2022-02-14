@@ -1,0 +1,22 @@
+/* selecteur de base
+h1, h2, div .nom de la class, nom de la id, [attr=value]
+*/
+
+h1 {
+  color: blueviolet;
+}
+
+#h1-accueil {
+  color: blue;
+}
+
+.couleur-rouge {
+  color: red;
+}
+
+p {
+  font-size: 20px;
+  color: beige;
+  background-color: black;
+  line-height: 1.6;
+}
